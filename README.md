@@ -1,4 +1,4 @@
-<h1 align="center">🐉 ZL CLOTH INDUSTRIES</h1>
+<h1 align="center">🐉 ZL GROUP</h1>
 <p align="center"><b>Good Stuff, Your Pride | Wear Your Pride, Live Your Legacy</b></p>
 
 <p align="center">
