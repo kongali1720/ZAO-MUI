@@ -143,7 +143,7 @@ They are not different — they were born to teach the world pure love and extra
 <table align="center" style="margin: 0 auto; border-collapse: collapse; border-radius: 8px; overflow: hidden;">
   <thead style="background-color: #0070f3; color: white;">
     <tr>
-      <th style="padding: 10px 20px; font-size: 16px;">Visa</th>
+      <th style="padding: 10px 20px; font-size: 16px;">Chainlink</th>
       <th style="padding: 10px 20px; font-size: 16px;">Mastercard</th>
       <th style="padding: 10px 20px; font-size: 16px;">PayPal</th>
     </tr>
@@ -151,10 +151,10 @@ They are not different — they were born to teach the world pure love and extra
   <tbody style="background-color: #f9f9f9;">
     <tr>
       <td style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Visa" width="90" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Chainlink_Logo_%28Blue%29.png" alt="Visa" width="190" />
       </td>
       <td style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Mastercard" width="90" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mastercard_2019_logo.svg" alt="Mastercard" width="90" />
       </td>
       <td style="padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/120px-PayPal_logo.svg.png" alt="PayPal" width="90" />
