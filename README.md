@@ -5,15 +5,6 @@
   <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/ZL-EMAS-3D.png" width="400"/>
 </p>
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red"></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/kongali1720/ZL-CLOTH-INDUSTRIES?style=social"></a>
-  <a href="#"><img src="https://img.shields.io/github/forks/kongali1720/ZL-CLOTH-INDUSTRIES?style=social"></a>
-  <a href="#"><img src="https://img.shields.io/github/issues/kongali1720/ZL-CLOTH-INDUSTRIES"></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/kongali1720/ZL-CLOTH-INDUSTRIES"></a>
-</p>
-
 ## ✨ About ZL Cloth Industries
 **ZL Cloth Industries** hadir sebagai simbol inovasi dalam dunia *cloth design and custom*.  
 Kami percaya bahwa pakaian bukan sekadar pelindung tubuh, tetapi sebuah identitas yang merepresentasikan **jati diri, kebanggaan, dan gaya hidup**.  
@@ -76,7 +67,7 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
     <img src="https://img.shields.io/badge/GitHub-kongali1720-39ff14?style=for-the-badge&logo=github&logoColor=white" height="35">
   </a>
   <a href="mailto:hallo@kongali1720.co.id">
-    <img src="https://img.shields.io/badge/Email-admin@kongali1720.com-DAF7A6?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/Email-hallo@kongali1720.co.id-DAF7A6?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   <a href="https://discord.gg/dXM88zFU" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kongali1720_32854-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35">
