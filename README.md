@@ -43,7 +43,7 @@ Logo naga emas dengan huruf **ZL** melambangkan:
 
 
 <h3 align="center" style="color:#39ff14; font-size:1.5rem;">
-💡 ☕ Traktir Kopi & Nasi Padang / Nasi Gorengnya ya cuy! 😄
+💡 ☕ Traktir Kopi ya cuy! 😄
 </h3>
 
 <div align="center">
@@ -75,7 +75,7 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
   <a href="https://github.com/kongali1720" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-kongali1720-39ff14?style=for-the-badge&logo=github&logoColor=white" height="35">
   </a>
-  <a href="mailto:admin@kongali1720.com">
+  <a href="mailto:hallo@kongali1720.co.id">
     <img src="https://img.shields.io/badge/Email-admin@kongali1720.com-DAF7A6?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   <a href="https://discord.gg/dXM88zFU" target="_blank">
@@ -90,10 +90,10 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
   <a href="https://x.com/Kongali1720" target="_blank">
     <img src="https://img.shields.io/badge/X-@KongAli50422468-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35">
   </a>
-  <a href="https://younext.cloud" target="_blank">
+  <a href="https://kongali1720.co.id/younext/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Web-Interactive-younext?style=for-the-badge&logo=web&logoColor=white" height="35">
   </a>
-  <a href="https://kongali1720.com" target="_blank">
+  <a href="https://kongali1720.co.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-kongali1720-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" height="35">
   </a>
   <a href="https://wa.me/447440014278" target="_blank">
